@@ -226,6 +226,12 @@ export default {
 </script>
 ```
 
+
+---
+## Front end 
+<img width="1610" height="933" alt="Screenshot 2025-09-24 at 10 08 09 AM" src="https://github.com/user-attachments/assets/3612ecf7-c8de-43af-ac7f-9fa25af63ed3" />
+
+
 ---
 
 ## 📂 .gitignore
