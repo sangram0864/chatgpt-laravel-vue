@@ -29,7 +29,7 @@ Make sure you have these installed:
 - **Composer** → `composer -v`  
 - **Node.js >= 18 & npm** → `node -v && npm -v`  
 - **MAMP/XAMPP** (optional, if not using `php artisan serve`)  
-- **OpenAI API Key** → [Get one here](https://platform.openai.com)  
+- **OpenAI API Key** → [Get one here](https://platform.openai.com/api-keys)  
 
 ---
 
